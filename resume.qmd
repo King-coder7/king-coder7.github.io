@@ -7,7 +7,7 @@ title: Patrick Sano Resume
 Data engineer, Disiple, Big dog.
 
 <div id="webaddress">
-[My Linkedin](www.linkedin.com/in/patrick-sano-7abb16246)
+www.linkedin.com/in/patrick-sano-7abb16246
 </div>
 
 ## Currently
